@@ -6,7 +6,6 @@ When you send a document on behalf of another person, you will need to provide t
  
 Here the another person’s email address is provided in onBehalfOf property.
 CURL : 
-
 curl -X 'POST' \ 'https://api.boldsign.com/v1/document/send' \
       -H   'accept: application/json' \
       -H   'X-API-KEY: {your API key}' \
