@@ -1,5 +1,5 @@
 # BoldsignKB
-                      How to send document on behalf of others
+                           How to send document on behalf of others
 Introduction
 In BoldSign, you can perform several operations on behalf of another user. For this, you should add that user as your sender identity, and that user should approve your request. Once this is done, you can perform the actions like sending documents, download audit log, revoke, remind, change access code etc. The documents you sent on behalf of another user will be displayed under the  Behalf Documents section in the BoldSign application.
 When you send a document on behalf of another person, you will need to provide their email address in onBehalfOf property.
